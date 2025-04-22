@@ -1,4 +1,4 @@
-var = 100
+variable = 100
 
 if var==100:
     print('hello')
